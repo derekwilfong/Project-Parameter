@@ -1,0 +1,5 @@
+C:\Users\derekw\Documents\Visual Studio 2015\Projects\RatedWalls4\RatedWalls4\bin\Debug\RatedWalls4.dll
+C:\Users\derekw\Documents\Visual Studio 2015\Projects\RatedWalls4\RatedWalls4\bin\Debug\RatedWalls4.pdb
+C:\Users\derekw\Documents\Visual Studio 2015\Projects\RatedWalls4\RatedWalls4\obj\Debug\RatedWalls4.csprojResolveAssemblyReference.cache
+C:\Users\derekw\Documents\Visual Studio 2015\Projects\RatedWalls4\RatedWalls4\obj\Debug\RatedWalls4.dll
+C:\Users\derekw\Documents\Visual Studio 2015\Projects\RatedWalls4\RatedWalls4\obj\Debug\RatedWalls4.pdb

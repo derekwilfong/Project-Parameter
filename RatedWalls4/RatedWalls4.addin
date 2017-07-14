@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RatedWalls4</Text>
+    <Description>Some description for RatedWalls4</Description>
+    <Assembly>RatedWalls4.dll</Assembly>
+    <FullClassName>RatedWalls4.Command</FullClassName>
+    <ClientId>816cd3c5-c95f-4f94-887e-439c0604c18b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RatedWalls4</Name>
+    <Assembly>RatedWalls4.dll</Assembly>
+    <FullClassName>RatedWalls4.App</FullClassName>
+    <ClientId>f23d680a-ea0c-42d5-9930-452c2400e545</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
